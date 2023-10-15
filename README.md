@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there!
+Welcome!
+
+# About Me
+My name is Logan Gill and I am a college student interested in computer science
+
+## School
+I am currently studying Computer Science at Northeastern University
+
+
+
 
 <!--
 **loganscott74/loganscott74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
