@@ -1,5 +1,5 @@
 # Logan Gill
-he, him, his
+he, him, his  
 [Linkedin](https://www.linkedin.com/in/loganscott74/) | [GitHub](https://github.com/loganscott74/)
 
 
