@@ -56,6 +56,8 @@ September 2021 - Present
  - Developed Ride Wait Times using Xcode, SwiftUI, and APIs to pull wait times for hundreds of rides at theme parks around the globe
  - Code new elements and make changes to keep Ride Wait Times current and using the latest frameworks as they are released
 
+<a href="https://apps.apple.com/us/app/ride-wait-times-know-the-wait/id1612176693?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 170px; height: 56.44px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1647388800" alt="Download on the App Store" style="border-radius: 13px; width: 170px; height: 56.44px;"></a>
+
 ## ArgoRPS - *Website, iOS Application*
 December 2021 - June 2023
 
