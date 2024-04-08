@@ -27,9 +27,9 @@ Visual Studios Code - *Familiar*
 ## Northeastern University, Boston - *Computer Science*
 September 2023 - May 2027
 
-**Courses:** Fundamentals of Computer Science 1 (CS2500), Discrete Structures (CS 1800)
+**Courses:** [Fundamentals of Computer Science 1 (CS2500)](https://pages.github.khoury.northeastern.edu/2500/2023F/), [Discrete Structures (CS 1800)](https://course.ccs.neu.edu/cs1800/index.html)
 
-**Activities:** Theme Park Engineering Club
+**Activities:** Theme Park Engineering Club, [Oasis NEU](https://oasisneu.com) ([check out my project!](https://github.com/Oasis-NEU/s24-group10))
 
 
 
