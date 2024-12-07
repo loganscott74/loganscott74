@@ -32,7 +32,7 @@ Leadership | Teamwork | Microsoft 365 | Google Suite
 # Education
 ## Northeastern University, Khoury College of Computer Sciences, Boston - *Computer Science*
 September 2023 - May 2027  
-**GPA:** 3.92/4.00
+**GPA:** 3.92 / 4.00
 
 ### Related Courses:
 #### Fall 2023
