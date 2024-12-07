@@ -1,6 +1,15 @@
 # Logan Gill
-he, him, his  
+Local: Boston, MA | Permanent: East Windsor, NJ  
 [Linkedin](https://www.linkedin.com/in/loganscott74/) | [GitHub](https://github.com/loganscott74/)
+
+
+# Education
+## Candidate for Bachelors of Science Computer Science
+Northeastern University, Khoury College of Computer Sciences, Boston, MA  
+September 2023 - Present | Expected: May 2027  
+**Courses:** Fundamentals of Computer Science 1 | Discrete Structures | Fundamentals of Computer Science 2 (Accelerated) | Mathematics of Data Models | Object Oriented Design | Programming in C++ | Algorithms (Grad-level) | Logic and Computation | Theory of Computation  
+**GPA:** 3.92 / 4.00  
+**Activities:** Theme Park Engineering Club | Oasis NEU  
 
 
 # Technical Skills
@@ -14,42 +23,18 @@ MacOS | iOS | WatchOS | Windows
 Xcode | IntelliJ | Eclipse | GitHub | Visual Studio Code | DrRacket  
 
 
-# Education
-## Northeastern University, Khoury College of Computer Sciences, Boston, MA
-Candidate for Bachelors of Science Computer Science
-September 2023 - Present | Expected: May 2027  
-
-**Courses:** Fundamentals of Computer Science 1 | Discrete Structures | Fundamentals of Computer Science 2 (Accelerated) | Mathematics of Data Models | Object Oriented Design | Programming in C++ | Algorithms (Grad-level) | Logic and Computation | Theory of Computation  
-
-**GPA:** 3.92 / 4.00
-
-**Activities:** Theme Park Engineering Club | Oasis NEU
-
-## Rutgers Preparatory School, Somerset, NJ
-September 2019 - June 2023
-
-**Courses:** Intro to Computer Science | AP Computer Science, Advanced Software Design | Intro to AI | Intro to Cybersecurity | Honors Chemistry | Honors Biology | Honors Physics
-
-**GPA:** 4.34 / 4.00
-
-**Activities:** The Argo: Student Newspaper - *Technology Editor*
-
-
 # Projects
-## Ride Wait Times
+## [Ride Wait Times](https://apps.apple.com/us/app/ride-wait-times-know-the-wait/id1612176693)
 Mobile App | March 2022 - Present  
  - Developing the app Ride Wait Times using Xcode, SwiftUI, and APIs to pull wait times for hundreds of rides at theme parks around the globe
  - Code new elements and make changes to keep Ride Wait Times current and using the latest frameworks as they are released  
-<a href="https://apps.apple.com/us/app/ride-wait-times-know-the-wait/id1612176693?itscg=30200&itsct=apps_box_badge&mttnsubad=1612176693" style="display: inline-block;">
-  <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1647388800" alt="Download on the App Store" style="width: 170px; height: 56.44px; vertical-align: middle; object-fit: contain;" />
-</a>
  
  ## Score Board
 Theme Park Engineering Club, Member | September 2023 - Present   
  - Expanding knowledge of C++ on Arduinos to make electronics for carnival games
  - Building an interactive display with a score that updates when triggered by sensors
 
-## LiveNEU
+## [LiveNEU](https://liveneu.netlify.app)
 Oasis NEU Club, Member | January 2024 - April 2024  
  - Acquired skills in Vite and React to build a website providing access to otherwise hidden information
  - Enhanced understanding in backend development to eﬀectively store a large set of data
@@ -63,7 +48,7 @@ Student Newspaper - Technology Editor | Website, iOS Application | December 2021
 
 # Work Experience
 ## Teaching Assistant, Communications Lead for CS2500
-Northeastern University, Boston, MA | January 2024 - Present
+Northeastern University, Boston, MA | January 2024 - Present  
  - Lead labs and hosted oﬃce hours to support student learning with Racket and Java
  - Oversee the communication team and platform where students can ask questions and receive answers from other students, teaching assistants, and professors
 
@@ -78,5 +63,8 @@ Six Flags Great Adventure, Jackson, NJ | June 2021 - August 2023
 
 
 # Additional Skills
-**Additional Skills:** Leadership | Teamwork | Microsoft 365 | Google Suite | Customer Service  
-**Interests:** Soccer | Computer Engineering | Interesting Facts | Law | Tennis | Trumpet  
+**Additional Skills:**  
+Leadership | Teamwork | Microsoft 365 | Google Suite | Customer Service  
+
+**Interests:**  
+Soccer | Computer Engineering | Interesting Facts | Law | Tennis | Trumpet  
