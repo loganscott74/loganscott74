@@ -7,8 +7,11 @@ Local: Boston, MA | Permanent: East Windsor, NJ
 ## Candidate for Bachelors of Science Computer Science
 Northeastern University, Khoury College of Computer Sciences, Boston, MA  
 September 2023 - Present | Expected: May 2027  
+
 **Courses:** Fundamentals of Computer Science 1 | Discrete Structures | Fundamentals of Computer Science 2 (Accelerated) | Mathematics of Data Models | Object Oriented Design | Programming in C++ | Algorithms (Grad-level) | Logic and Computation | Theory of Computation  
+
 **GPA:** 3.92 / 4.00  
+
 **Activities:** Theme Park Engineering Club | Oasis NEU  
 
 
