@@ -57,7 +57,8 @@ Northeastern University, Boston, MA | January 2024 - Present
 
 ## Lead Front End Developer
 Bisket Media, Start Up | October 2023 - Present  
- - Developing an app to allow for people to connect with people they meet in person using location data
+ - Constructing an app using Swift and Xcode to allow for people to connect with others they meet in person using location data
+ - Connecting with a backend to ensure a seamless user experience
 
 ## Ride Operator, Supervisor
 Six Flags Great Adventure, Jackson, NJ | June 2021 - August 2023  
