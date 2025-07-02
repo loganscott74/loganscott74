@@ -15,15 +15,15 @@ Check out my app **Ride Wait Times**, available on the iOS app store!
 # Skills
 ## Technical
 **Languages And Frameworks:**  
-Swift | Java | C++ | Racket | Python | ACL2s - *Proficient*  
-HTML | CSS | Vite | React - *Familiar*
+Swift | Java | C++ | Kotlin | Racket | Python | ACL2s - *Proficient*  
+R | HTML | CSS | Vite | PHP | React - *Familiar*
 
 **Systems:**  
 MacOS | iOS | WatchOS - *Proficient*  
 Windows - *Familiar*
 
 **Applications:**  
-Xcode | IntelliJ | Eclipse | GitHub | Visual Studios Code | DrRacket - *Proficient*  
+Xcode | IntelliJ | Android Studio | Eclipse | GitHub | Visual Studios Code | DrRacket | RStudio - *Proficient*  
 
 ## Other
 Leadership | Teamwork | Microsoft 365 | Google Suite
@@ -37,7 +37,7 @@ September 2023 - May 2027
 ### Related Courses:
 #### Fall 2023
 - [Fundamentals of Computer Science 1 (CS2500)](https://pages.github.khoury.northeastern.edu/2500/2023F/)
-- [Discrete Structures (CS 1800)](https://course.khoury.northeastern.edu/cs1800f23/index.html),
+- [Discrete Structures (CS1800)](https://course.khoury.northeastern.edu/cs1800f23/index.html),
 
 #### Spring 2024
 - [Fundamentals of Computer Science 2 Accelerated (CS2510)](https://course.ccs.neu.edu/cs2510asp24/index.html)
@@ -51,6 +51,13 @@ September 2023 - May 2027
 - [Logic and Computation (CS2800)](https://course.khoury.northeastern.edu/cs2800f24/assignments.html)
 - Theory of Computation (CS3800)
 - [Programming in C++ (CS3520)](https://www.khoury.northeastern.edu/home/scooper/class/2024fa-cs3520-01/index.html)
+
+#### Spring 2025 (Co-Op)
+- Introduction to Cybersecurity (CY2550)
+
+#### Summer 2025 (Co-Op)
+- Mobile Application Development (CS4520)
+- Introduction to Databases (CS3200)
 
 **Activities:** Theme Park Engineering Club, [Oasis NEU](https://oasisneu.com) ([check out my project!](https://github.com/Oasis-NEU/s24-group10))
 
